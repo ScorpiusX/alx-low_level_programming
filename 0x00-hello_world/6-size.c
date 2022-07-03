@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main -main block
+ * main - main block
  *
- * return:0 (success)
+ * return:Always 0 (success)
  *
  */
 
