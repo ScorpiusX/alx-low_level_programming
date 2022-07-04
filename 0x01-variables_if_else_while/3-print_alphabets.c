@@ -1,11 +1,10 @@
 #include <stdio.h>
 /**
-*main - Entry point.
-*
-*Description: Use `putchar` function to print the alphabet in lowercase.
-*
-*Return : Always 0 (Success)
+*main -Entry point
+*Description:
+*Return: Always 0(Success)
 */
+
 int main(void)
 {
 	char letter;
