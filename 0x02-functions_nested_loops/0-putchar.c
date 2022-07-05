@@ -1,5 +1,4 @@
 #include "main.h"
-#include <stdio.h>
 /**
 *main - Entry point.
 *Description: prints _putchar.
@@ -8,15 +7,15 @@
 
 int main(void)
 {
-	char putchar[] = "_putchar";
+	char rico[] = "_putchar";
 	int i = 0;
 
-	while (putchar[i] != '\0')
+	while (rico[i] != '\0')
 	{
-		_putchar(putchar[i]);
+		_putchar(rico[i]);
 		i++;
 	}
-	putchar('\n');
+	_putchar('\n');
 
 	return (0);
 }
