@@ -4,6 +4,7 @@
  * _puts - print a string to stdout
  * @str: char array string type
  * Description: Can only use _putchar
+ * Return: string
  */
 
 void _puts(char *str)
