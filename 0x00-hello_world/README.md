@@ -6,4 +6,6 @@ chmod u+x 0-preprocessor .
 
 1-compiler: the gcc -c option compiles or assembles the source files, but does not link, by default the object file name for the source file is made by replacing the present suffix with .o.
 ans:
-gcc - c $CFile >> c.
+#!/bin/bash
+gcc - c $CFile .
+chmod u+x 1-compiler.
