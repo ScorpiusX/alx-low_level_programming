@@ -1,11 +1,12 @@
 #include "main.h"
 
 /**
- * char *_strcpy - a function that copies the string pointed to by src
- * @dest: copy to
- * @src: copy from
- * Return: string
- */
+ * *_strcpy - copies string src to buffer pointed to by dest
+ * @dest: string pointer
+ * @src: buffer pointer
+ * Description: cpies string src to buffer
+ * Return: dest pointer
+ **/
 
 char *_strcpy(char *dest, char *src)
 {
