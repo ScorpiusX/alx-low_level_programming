@@ -1,5 +1,6 @@
 #include "main.h"
 #include <stdlib.h>
+
 /**
  * free_grid - is a function that frees memory from a 2d grid
  * @grid: is the pointer to the grid

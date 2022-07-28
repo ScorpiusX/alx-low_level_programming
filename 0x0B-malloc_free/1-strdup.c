@@ -6,7 +6,6 @@
  * @str: string to copy
  * Return: pointer to array or null
  */
-
 char *_strdup(char *str)
 {
 	char *strNew;

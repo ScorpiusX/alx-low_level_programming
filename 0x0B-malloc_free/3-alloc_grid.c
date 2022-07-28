@@ -1,5 +1,6 @@
 #include"main.h"
 #include <stdlib.h>
+
 /**
  * alloc_grid - is a function that creates 2d array
  * @width: is the width of the array

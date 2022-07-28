@@ -1,5 +1,6 @@
 #include "main.h"
 #include <stdlib.h>
+
 /**
  * count - is a function counts the number of words in a string
  * @s: is a pointer to a string
