@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <ctype.h>
+
 /**
  * main - is a function that prints the minimum number of coins for change
  * @argc: is the number of arguments

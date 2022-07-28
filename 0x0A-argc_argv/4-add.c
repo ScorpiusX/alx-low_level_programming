@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <ctype.h>
 #include <string.h>
+
 /**
  * main - is a function that prints all the arguments
  * @argc: is the arguments
