@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * _strspn - gets the length of a prefix substring
  * @s: string
@@ -6,6 +7,7 @@
  *
  * Return: the number of bytes that compose the length
  */
+
 unsigned int _strspn(char *s, char *accept)
 {
 	int i;
