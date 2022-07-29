@@ -8,6 +8,7 @@
  * @n: bytes to be copied
  * Return: string output
  */
+
 char *_memset(char *s, char b, unsigned int n)
 {
 	unsigned int i;
