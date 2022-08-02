@@ -1,11 +1,6 @@
 #include "main.h"
 #include <stdlib.h>
-<<<<<<< HEAD
 #include <stdio.h>
-
-
-=======
->>>>>>> 6438788b1cf5042bc1ae17c526e00ed7ac1ede8a
 /**
  * malloc_checked - is a function that allocates memory using malloc
  * @b: is the number of bytes to be allocated
