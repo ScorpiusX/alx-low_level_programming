@@ -1,6 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include "3-calc.h"
+
 /**
  * main - get_op_func has operators correlated with
  * func signs and funcs from op_func
