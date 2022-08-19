@@ -1,6 +1,5 @@
 #include "lists.h"
 #include <stdlib.h>
-
 /**
   * _strlen - gets length of the string
   * @s: string

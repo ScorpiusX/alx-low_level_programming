@@ -2,7 +2,6 @@
 #include <unistd.h>
 
 void start(void) __attribute__((constructor));
-
 /**
  * start - executes before main
  */
