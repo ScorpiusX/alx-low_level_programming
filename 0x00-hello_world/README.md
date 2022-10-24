@@ -13,4 +13,4 @@ chmod u+x 1-compiler.
 2-assembler: the gcc -S option stops after the compilation stage, but does not assemble, instead the output is inform of an assembler code file, by default the assembler file name for the source file is made by replacing the present suffix with .s.
 ans:
 #!/bin/bash
-gcc -S $CFile .
+gcc -S $CFile ..
